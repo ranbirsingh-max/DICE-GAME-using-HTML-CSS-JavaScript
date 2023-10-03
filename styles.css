@@ -21,6 +21,12 @@ h1 {
   font-size: 8rem;
   color: #4ECCA3;
 }
+#drum{
+  text-align: center;
+  font-weight: bold;
+  font-size: medium;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #4ECCA3;
 
 p {
   font-size: 2rem;
